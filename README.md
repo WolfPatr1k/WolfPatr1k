@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WolfPatr1k
 - 👀 I’m interested in game development, low-level programming
-- 🌱 I’m currently learning C#, Rust, Assembly
+- 🌱 I’m currently learning C, Assembly
 
 <!---
 WolfPatr1k/WolfPatr1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
